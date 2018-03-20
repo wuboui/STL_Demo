@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Deque_Demo.h" />
+    <ClInclude Include="Hashtable_Demo.h" />
     <ClInclude Include="Heap_Demo.h" />
     <ClInclude Include="List_Demo.h" />
     <ClInclude Include="map_Demo.h" />
