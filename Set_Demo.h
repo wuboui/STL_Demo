@@ -106,4 +106,6 @@ inline bool operator<(const set< Key, Compare, Alloc >&x, const set<Key, Compare
 {
 	return x.t < y.t;
 }
+
+
 #endif // !__SET_DEMO_H_
