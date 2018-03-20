@@ -13,6 +13,8 @@ struct __hashtable_iterator_demo
 		ExtractKey, EqualKey, Alloc>
 		const_iterator;
 	typedef __hashtable_node<Value> node;
+
+
 	typedef forward_iterator_tag iterator_category;
 	typedef Value value_type;
 	typedef ptrdiff_t difference_type;
